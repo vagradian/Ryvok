@@ -2,6 +2,7 @@
 Test template
 
 ## Requirements
+```sh
 $ node --version
 v6.4.0
 $ npm --version
@@ -9,6 +10,7 @@ $ npm --version
 $ gulp --version
 CLI version 1.2.2
 Local version 4.0.0-alpha.2
+```
 
 ## Build the project
 In the terminal, install npm:
