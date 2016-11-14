@@ -1,0 +1,45 @@
+@mixin title($color) {
+  font-family: RexBold;
+  font-size: 45px;
+  text-transform: uppercase;
+  color: $color;
+  span {
+    font-family: Roboto;
+  }
+}
+
+@mixin pre-sub-title($color) {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: $color;
+  a {
+    text-decoration: none;
+    color: $color;
+  }
+}
+
+@mixin blocks($margin) {
+  position: relative;
+  width: 960px;
+  margin: $margin;
+}
+
+@mixin button {
+  background-color: $red-btn;
+  border: none;
+  width: 294px;
+  height: 54px;
+  text-align: center;
+  color: $white;
+  text-transform: uppercase;
+  font-size: 13px;
+  a {
+    text-decoration: none;
+    color: $white;
+  }
+  &:hover {
+    border: 2px solid $white;
+  }
+}
