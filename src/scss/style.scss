@@ -147,10 +147,6 @@ body {
   color: $white;
 }
 
-.content__method-content {
-  @include blocks(0 auto);
-}
-
 .content__method-title {
   position: relative;
   margin-top: 60px;
@@ -170,7 +166,6 @@ body {
   text-align: right;
   float: left;
   margin-top: 25px;
-  margin-left: -9%;
   .content__method-text {
     padding-bottom: 73px;
     line-height: 1.5;
@@ -183,15 +178,20 @@ body {
 .content__method-right {
   position: relative;
   float: right;
-  margin-top: 30px;
-  margin-right: -8.8%;
+  margin-top: 28px;
   .content__method-text {
-    padding-bottom: 60px;
+    padding-bottom: 58px;
     line-height: 1.5;
   }
   .content__method-text:nth-last-child(3) {
-    padding-bottom: 46px;
+    padding-bottom: 45px;
   }
+}
+
+.content__method-content {
+  position: relative;
+  margin: 20px 15%;
+  width: 70%;
 }
 
 .content__why {
