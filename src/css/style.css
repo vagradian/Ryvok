@@ -6,7 +6,7 @@ body {
   width: 100%;
   background-color: #ffffff;
   box-sizing: border-box;
-  font-family: Roboto; }
+  font-family: Roboto-Regular; }
 
 .header {
   overflow: auto;
@@ -34,7 +34,7 @@ body {
   color: #f11a22;
   font-size: 75px; }
   .header__title span {
-    font-family: Roboto; }
+    font-family: Roboto-Regular; }
 
 .header__text {
   margin-top: -30px;
@@ -58,10 +58,10 @@ body {
   text-transform: uppercase;
   color: #f11a22; }
   .content__specials-title span {
-    font-family: Roboto; }
+    font-family: Roboto-Regular; }
 
 .content__specials-subtitle {
-  font-family: Roboto;
+  font-family: Roboto-Regular;
   font-size: 24px;
   font-weight: bold;
   text-transform: uppercase;
@@ -105,7 +105,7 @@ body {
   width: 440px;
   margin: 83px 50%; }
   .content__banner-title span {
-    font-family: Roboto; }
+    font-family: Roboto-Regular; }
 
 .content__about {
   position: relative;
@@ -121,7 +121,7 @@ body {
   margin-right: 90px; }
 
 .content__about-pretitle {
-  font-family: Roboto;
+  font-family: Roboto-Regular;
   font-size: 24px;
   font-weight: bold;
   text-transform: uppercase;
@@ -137,7 +137,7 @@ body {
   color: #f11a22;
   margin-top: -5px; }
   .content__about-title span {
-    font-family: Roboto; }
+    font-family: Roboto-Regular; }
 
 .content__about-list {
   list-style-image: url("../img/black_line.png");
@@ -173,7 +173,7 @@ body {
   text-transform: uppercase;
   color: #ffffff; }
   .content__method-title span {
-    font-family: Roboto; }
+    font-family: Roboto-Regular; }
 
 .content__method-subtitle {
   position: relative;
@@ -210,7 +210,7 @@ body {
   margin: 80px auto 85px; }
 
 .content__why-pretitle {
-  font-family: Roboto;
+  font-family: Roboto-Regular;
   font-size: 24px;
   font-weight: bold;
   text-transform: uppercase;
@@ -226,7 +226,7 @@ body {
   color: #151515;
   margin-top: -10px; }
   .content__why-title span {
-    font-family: Roboto; }
+    font-family: Roboto-Regular; }
 
 .content__why-list {
   display: -ms-flexbox;
@@ -255,7 +255,7 @@ body {
   margin: 55px auto; }
 
 .content__compare-pretitle {
-  font-family: Roboto;
+  font-family: Roboto-Regular;
   font-size: 24px;
   font-weight: bold;
   text-transform: uppercase;
@@ -271,7 +271,7 @@ body {
   color: #ffffff;
   margin-top: -15px; }
   .content__compare-title span {
-    font-family: Roboto; }
+    font-family: Roboto-Regular; }
   .content__compare-title em {
     color: #f11a22;
     font-style: normal;
@@ -303,7 +303,7 @@ body {
   margin: 85px auto 0; }
 
 .content__finance-pretitle {
-  font-family: Roboto;
+  font-family: Roboto-Regular;
   font-size: 24px;
   font-weight: bold;
   text-transform: uppercase;
@@ -322,7 +322,7 @@ body {
   margin-top: -10px;
   margin-bottom: 50px; }
   .content__finance-title span {
-    font-family: Roboto; }
+    font-family: Roboto-Regular; }
 
 .content__finance-list {
   display: -ms-flexbox;
@@ -368,7 +368,7 @@ body {
   text-align: center; }
 
 .content__infographic-title {
-  font-family: Roboto;
+  font-family: Roboto-Regular;
   font-size: 24px;
   font-weight: bold;
   text-transform: uppercase;
@@ -398,9 +398,9 @@ body {
   color: #ffffff;
   margin-bottom: -10px; }
   .content__infographic-number span {
-    font-family: Roboto; }
+    font-family: Roboto-Regular; }
   .content__infographic-number sup {
-    font-family: Roboto;
+    font-family: Roboto-Regular;
     font-size: 24px;
     font-weight: bold;
     text-transform: uppercase;
@@ -418,7 +418,7 @@ body {
     .content__infographic-number sup:nth-last-child(1) {
       left: 0px; }
   .content__infographic-number sub {
-    font-family: Roboto;
+    font-family: Roboto-Regular;
     font-size: 24px;
     font-weight: bold;
     text-transform: uppercase;
@@ -484,7 +484,7 @@ body {
   text-transform: uppercase;
   color: #151515; }
   .content__support-title span {
-    font-family: Roboto; }
+    font-family: Roboto-Regular; }
 
 .content__support-lists {
   display: -ms-flexbox;
@@ -522,7 +522,7 @@ body {
   color: #f11a22;
   text-align: center; }
   .content__achievements-title span {
-    font-family: Roboto; }
+    font-family: Roboto-Regular; }
 
 .content__achievements-numbers {
   display: -ms-flexbox;
@@ -543,7 +543,7 @@ body {
   color: #151515;
   margin-bottom: 10px; }
   .content__achievements-number span {
-    font-family: Roboto; }
+    font-family: Roboto-Regular; }
 
 .footer {
   height: 435px; }
@@ -575,10 +575,10 @@ body {
   line-height: 1.5;
   margin-top: -40px; }
   .footer__text span {
-    font-family: Roboto; }
+    font-family: Roboto-Regular; }
 
 .footer__info-phone {
-  font-family: Roboto;
+  font-family: Roboto-Regular;
   font-size: 24px;
   font-weight: bold;
   text-transform: uppercase;

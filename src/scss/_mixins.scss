@@ -4,12 +4,12 @@
   text-transform: uppercase;
   color: $color;
   span {
-    font-family: Roboto;
+    font-family: Roboto-Regular;
   }
 }
 
 @mixin pre-sub-title($color) {
-  font-family: Roboto;
+  font-family: Roboto-Regular;
   font-size: 24px;
   font-weight: bold;
   text-transform: uppercase;

@@ -25,7 +25,7 @@ gulp.task("style", function () {
         .pipe(browserSync.reload({stream:true}))
         .pipe(minify())
         .pipe(rename("style.min.css"))
-        .pipe(gulp.dest("build/css"))
+        .pipe(gulp.dest("src/css"))
 });
 
 
